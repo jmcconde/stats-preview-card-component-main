@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/jmcconde/stats-preview-card-component-main]
+- Live Site URL: [https://resplendent-omelette-9e02bf.netlify.app/]
 
 ## My process
 
